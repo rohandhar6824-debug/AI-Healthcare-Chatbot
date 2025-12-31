@@ -2,6 +2,7 @@
 This is my first git Repository.
 <br>
 Author - Rohan Dhar
+<br>
 💡 Can Artificial Intelligence function as a digital healthcare assistant? This project explores that possibility through the development of an AI-powered Healthcare Chatbot capable of predicting diseases based on user-reported symptoms using Machine Learning algorithms in Python. The system is integrated with a web interface, allowing real-time interaction and accessibility to users. 🩺💻
 
 🔍 Project Overview:
