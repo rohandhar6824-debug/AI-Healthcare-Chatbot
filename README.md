@@ -1,10 +1,8 @@
 # AI-NLP-Healthcare-Chatbot
 This is my first Repository.
 <br>
-<img width="1920" height="985" alt="Screenshot (2403)" src="https://github.com/user-attachments/assets/806fecf6-e1c6-46a5-83b8-a8ff11dc4efc" />
-
-
 <br>
+<img width="1920" height="985" alt="Screenshot (2403)" src="https://github.com/user-attachments/assets/806fecf6-e1c6-46a5-83b8-a8ff11dc4efc" />
 <br>
 💡 Can Artificial Intelligence function as a digital healthcare assistant? This project explores that possibility through the development of an AI-powered Healthcare Chatbot capable of predicting diseases based on user-reported symptoms using Machine Learning algorithms in Python. The system is integrated with a web interface, allowing real-time interaction and accessibility to users. 🩺💻
 
