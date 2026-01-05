@@ -1,7 +1,8 @@
 # AI-NLP-Healthcare-Chatbot
 This is my first Repository.
 <br>
-<img width="1920" height="1080" alt="Screenshot (2402)" src="https://github.com/user-attachments/assets/d83736c3-9968-4f6d-8eaf-9611fbc37b27" />
+<img width="1920" height="985" alt="Screenshot (2403)" src="https://github.com/user-attachments/assets/806fecf6-e1c6-46a5-83b8-a8ff11dc4efc" />
+
 
 <br>
 <br>
