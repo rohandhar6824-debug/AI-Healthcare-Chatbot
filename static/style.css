@@ -1,6 +1,6 @@
 /* ---------- Background ---------- */
 body {
-  background: url("images/bg.png") no-repeat center center fixed;
+  background: url("images/bg.jpeg") no-repeat center center fixed;
   background-size: cover;
   margin: 0;
   font-family: 'Segoe UI', Arial, sans-serif;
@@ -129,3 +129,4 @@ body {
   background: rgba(0,0,0,0.2);
   border-radius: 3px;
 }
+
